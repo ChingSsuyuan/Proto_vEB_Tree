@@ -1,5 +1,6 @@
 # vEB_Tree
-realize vEB tree structure and test with numbers
+Realize vEB tree structure and test with numbers
+
 The file vEB.cpp contains skeleton code for this data structure.
 
 Implements:
