@@ -1,0 +1,81 @@
+Minimum: 1
+Maximum: 7
+Member 1: 1
+Member 2: 0
+Member 3: 1
+Member 4: 0
+Member 5: 1
+Member 6: 0
+Member 7: 1
+Member 8: 0
+Member 9: 0
+Member 10: 0
+Successor to 1: 3
+Successor to 3: 5
+Successor to 5: 7
+Successor to 7: -1
+Member 3 after deletion: 0
+Read into vEB tree: I 102
+Read into vEB tree: I 78
+Read into vEB tree: I 153
+Read into vEB tree: I 223
+Read into vEB tree: I 11
+Read into vEB tree: I 19
+Read into vEB tree: I 1
+Read into vEB tree: I 240
+Read into vEB tree: I 154
+Read into vEB tree: I 13
+Read into vEB tree: S 131
+Successor of 131 is 153
+Read into vEB tree: S 71
+Successor of 71 is 78
+Read into vEB tree: D 11
+Read into vEB tree: I 70
+Read into vEB tree: I 125
+Read into vEB tree: S 98
+Successor of 98 is 102
+Read into vEB tree: I 169
+Read into vEB tree: D 153
+Read into vEB tree: I 106
+Read into vEB tree: S 220
+Successor of 220 is 223
+Read into vEB tree: S 144
+Successor of 144 is 154
+Read into vEB tree: D 125
+Read into vEB tree: D 70
+Read into vEB tree: I 100
+Read into vEB tree: S 250
+No successor for 250
+Read into vEB tree: I 207
+Read into vEB tree: I 139
+Read into vEB tree: D 19
+Read into vEB tree: I 34
+Read into vEB tree: S 127
+Successor of 127 is 139
+Read into vEB tree: S 75
+Successor of 75 is 78
+Read into vEB tree: S 145
+Successor of 145 is 154
+Read into vEB tree: I 115
+Read into vEB tree: D 34
+Read into vEB tree: D 106
+Read into vEB tree: S 119
+Successor of 119 is 139
+Read into vEB tree: D 1
+Read into vEB tree: S 48
+Successor of 48 is 139
+Read into vEB tree: D 139
+Read into vEB tree: D 223
+Read into vEB tree: S 33
+No successor for 33
+Read into vEB tree: I 84
+Read into vEB tree: I 155
+Read into vEB tree: I 197
+Read into vEB tree: D 240
+Read into vEB tree: S 112
+Successor of 112 is 115
+Read into vEB tree: S 165
+Successor of 165 is 169
+Read into vEB tree: I 128
+Read into vEB tree: D 13
+Read into vEB tree: D 197
