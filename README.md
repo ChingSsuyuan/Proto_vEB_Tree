@@ -1,4 +1,4 @@
-# vEB_Tree
+# vEB Tree without max or min pointer(EC504)
 Realize vEB tree structure and test with numbers
 
 The file vEB.cpp contains skeleton code for this data structure.
