@@ -17,6 +17,6 @@ The file vEB.cpp contains skeleton code for this data structure.
 
 ### successor
 
-provided a file called test.txt, which contains a sequence of successor
+Provided a file called test.txt, which contains a sequence of successor
 
 (given by ‘S’), insert (given by ‘I’), and delete (given by ‘D’) operations.
