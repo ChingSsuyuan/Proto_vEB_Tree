@@ -3,19 +3,19 @@ Realize vEB tree structure and test with numbers
 
 The file vEB.cpp contains skeleton code for this data structure.
 
-Implements:
+## Implements:
 
-*** minimum
+### minimum
 
-*** maximum
+### maximum
 
-*** insert
+### insert
 
-*** member
+### member
 
-*** deletion
+### deletion
 
-*** successor
+### successor
 
 provided a file called test.txt, which contains a sequence of successor
 
