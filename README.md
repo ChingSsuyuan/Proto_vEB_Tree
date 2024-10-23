@@ -2,8 +2,8 @@
 Realize proto-vEB tree structure and test with numbers
 
 The file vEB.cpp contains skeleton code for this data structure.
-
-## Implements:
+[]
+## Functions:
 
 ### minimum
 
