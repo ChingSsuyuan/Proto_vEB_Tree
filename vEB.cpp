@@ -253,7 +253,7 @@ int main() {
     freeVEB(tree2);
     universeSize = 256; // Change as needed
     vEB* tree = createVEB(universeSize);
-    FILE *file = fopen("tree_ops.txt", "r");
+    FILE *file = fopen("test_ops.txt", "r");
     char *line = (char *)malloc(500 * sizeof(char));  
     char sz;
     int value;
