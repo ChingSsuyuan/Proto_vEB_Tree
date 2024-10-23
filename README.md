@@ -2,7 +2,9 @@
 Realize proto-vEB tree structure and test with numbers
 
 The file vEB.cpp contains skeleton code for this data structure.
-[Github Logo]()
+
+[Github Logo](https://github.com/ChingSsuyuan/Proto_vEB_Tree/blob/438943a4c100834007568ac14cfd0688e6df3479/Structure.png)
+
 ## Functions:
 
 ### minimum
